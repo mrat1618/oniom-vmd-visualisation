@@ -5,7 +5,7 @@ This python script converts Gaussian `*.com` or `*.gjf` inputs to a PDB file. Al
 ## Installation
 Download all files manually or clone the repository using:
 ```bash
-git clone XXX
+git clone git@github.com:madhurangar/oniom-vmd-visualisation.git
 ``` 
 
 ## Usage
