@@ -12,7 +12,7 @@ Read more:
     [space]
     name      13-16 (:<4s)  | Atom name                        (left) character
     altloc    17    (:1s)   | Alternate location indicator     ( ) character
-    resname   18-20	(:>3s)  | Residue name                     (right) character
+    resname   18-20 (:>3s)  | Residue name                     (right) character
     [space]
     chain     22    (:1s)   | Chain identifier                 ( ) character
     resid     23-26 (:>4d)  | Residue sequence number          (right) integer
