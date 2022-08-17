@@ -15,7 +15,7 @@ class XYZAtom():
 
           
 class XYZ():
-    """Class to hold a PDB file consistant of multiple atoms
+    """Class to hold a XYZ file consistant of multiple atoms
     """
     def __init__(self) -> None:
         self.atoms = []
